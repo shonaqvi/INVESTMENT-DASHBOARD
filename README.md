@@ -2,7 +2,7 @@
 
 ## Applying machine learning into the stock market
 
-### Team Members: Syed Naqvi, Minh Tran, Rodrigo Guazzelli, Hsuan Liu, Abdullah Mamun
+### Team Members: Minh Tran, Rodrigo Guazzelli, Syed Naqvi, Hsuan Liu, Abdullah Mamun
 
 *The project is for study propose only*
 
